@@ -4,7 +4,7 @@
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Entries](https://img.shields.io/badge/entries-20-orange.svg)]()
 
-> Open-source alternatives to paid software. Curated, simple, and free to use — one line per entry.
+> Open-source alternatives to paid software. Curated, simple, and free to use - one line per entry.
 
 ## Why This List
 "Free alternative to Notion / Photoshop / Slack" is searched every day, forever. The format is proven for huge star counts, and the one-line rule keeps it from becoming the giant, messy lists already out there.
@@ -87,4 +87,4 @@
 See CONTRIBUTING.md. The short version: fork this repo, add your entry as one line in the right table, open a pull request. Rules: the alternative must be open source, free to use, and a real replacement for the paid tool. One entry per tool.
 
 ## License
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — public domain. Use freely, no attribution required.
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)- public domain. Use freely, no attribution required.

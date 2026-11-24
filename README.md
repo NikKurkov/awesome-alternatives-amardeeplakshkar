@@ -19,11 +19,11 @@
 - [Alternative to Figma](#alternative-to-figma)
 - [Alternative to Microsoft Office](#alternative-to-microsoft-office)
 - [Alternative to Slack / Zoom](#alternative-to-slack--zoom)
+- [Alternative to Granola](#alternative-to-granola)
 - [Alternative to Dropbox / Google Drive](#alternative-to-dropbox--google-drive)
 - [Alternative to Premiere / Camtasia](#alternative-to-premiere--camtasia)
 - [Alternative to Outlook](#alternative-to-outlook)
 - [Alternative to Visio / Lucidchart](#alternative-to-visio--lucidchart)
-- [Alternative to Granola](#alternative-to-granola)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -71,9 +71,42 @@
 | [Mattermost](https://mattermost.com/) | Team chat you can self-host |
 | [Rocket.Chat](https://www.rocket.chat/) | Open-source team chat, self-hosted |
 | [Element](https://element.io/) | Decentralised chat on Matrix protocol |
+| [Jitsi Meet](https://meet.jit.si/) | Video calls with no account needed |
 
 ## Alternative to Granola
 
 | Tool | What it does |
 | --- | --- |
 | [Yogurt](https://yogurt.so) | Private AI meeting notes that stay on your computer |
+
+## Alternative to Dropbox / Google Drive
+
+| Tool | What it does |
+| --- | --- |
+| [Nextcloud](https://nextcloud.com/) | Self-hosted file sync and collaboration |
+
+## Alternative to Premiere / Camtasia
+
+| Tool | What it does |
+| --- | --- |
+| [OBS Studio](https://obsproject.com/) | Record and stream video free |
+
+## Alternative to Outlook
+
+| Tool | What it does |
+| --- | --- |
+| [Thunderbird](https://www.thunderbird.net/) | Free email, calendar, contacts |
+
+## Alternative to Visio / Lucidchart
+
+| Tool | What it does |
+| --- | --- |
+| [diagrams.net](https://www.diagrams.net/) | Free flowcharts and diagrams online |
+
+## Contributing
+
+See CONTRIBUTING.md. The short version: fork this repo, add your entry as one line in the right table, open a pull request. Rules: the alternative must be open source, free to use, and a real replacement for the paid tool. One entry per tool.
+
+## License
+
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)- public domain. Use freely, no attribution required.
